@@ -1,9 +1,20 @@
-# University-Analisys-COR
+# College Scorecard Data analysis 
 
+# [Introducción](#introduccion)
+# [Pre-Procesamiento de datos](#pre-procesamiento-de-datos)
+# [Variables](#variables)
+    # [PREDDEG](#preddeg)
+    # [](#distanceonly)
+
+
+
+    
+<a name=introduccion>
 Tomando el dataset de College Scoreboard el cual cuenta amplia información de instituciones de educación superior , usaremos técnicas de clustering para separar en grupos distintos a las instituciones.
 
 Esto con el fin de crear una aplicación donde una persona pueda escoger entre 3 variables, y que de estas se genere un clustering, como los grupos en clustering tienen sus características particulares , una persona podrá mirar la base de datos de cada grupo además de una descripción de cada grupo , para cual pueda mirar si encuentra una institución de educación superior, que se acomode a sus necesidades en base a las variables que escogió.
 
+<a name=pre-procesamiento-de-datos>
 ## Pre-procesamiento de datos
 Para que una persona pueda elegir una institución está lógicamente debe encontrarse activa , por ende filtramos inicialmente la base de datos usando la variable CURROPER , para que esta solo contenga las universidades que aún están operando.
 
