@@ -1,14 +1,17 @@
-# College Scorecard Data analysis 
-
-# [Introducción](#introduccion)
-# [Pre-Procesamiento de datos](#pre-procesamiento-de-datos)
-# [Variables](#variables)
+\begin{center}
+# College Scorecard Data analysis
+\end{center}
+ 
+## Tabla de contenido
+* [Introducción](#introduccion)
+* [Pre-Procesamiento de datos](#pre-procesamiento-de-datos)
+* [Variables](#variables)
     # [PREDDEG](#preddeg)
     # [](#distanceonly)
 
 
 
-    
+
 <a name=introduccion>
 Tomando el dataset de College Scoreboard el cual cuenta amplia información de instituciones de educación superior , usaremos técnicas de clustering para separar en grupos distintos a las instituciones.
 
