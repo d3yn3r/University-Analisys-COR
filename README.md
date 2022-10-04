@@ -95,6 +95,7 @@ La aplicación al ser opciones
 <a name=dendrograma></a>
 
 ### Dendrograma
+![Dendrograma caso 1 ](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Dendrograma%20Caso1.png)
 
 <a name=grupos></a>
 
