@@ -72,15 +72,19 @@ Esta variable numérica podemos encontrar los ingresos netos por matrícula por 
 
 #### ADM_RATE_ALL
 
-representa la tasa de admisión en todos los campus, definida como el número total de estudiantes universitarios admitidos en todas las sucursales dividido por el número total de estudiantes universitarios que presentaron solicitudes en todas las sucursales.
+Representa la tasa de admisión en todos los campus, definida como el número total de estudiantes universitarios admitidos en todas las sucursales dividido por el número total de estudiantes universitarios que presentaron solicitudes en todas las sucursales.
 
 <a name=npt4pub></a>
 
 #### NPT4_PUB
 
+Para las instituciones públicas, esta métrica se limita a los estudiantes universitarios que pagan matrícula estatal, incluye un promedio ponderado de todos los estudiantes universitarios que reciben Título IV.
+
 <a name=npt4priv></a>
 
 #### NPT4_PRIV
+
+Para las instituciones privadas, esta metrica incluye un promedio ponderado de todos los estudiantes universitarios que reciben Título IV.
 
 <a name=analisis-de-nulos></a>
 
@@ -160,3 +164,6 @@ La aplicación al ser opciones
 <a name=referencias-bibliograficas></a>
 
 ### Referencias Bibliográficas
+
+[Shiny](https://shiny.rstudio.com/)
+
