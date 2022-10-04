@@ -19,23 +19,26 @@
     * [Grupo 0](#grupo-0)
     * [Grupo 1](#grupo-1)
     * [Grupo 2](#grupo-2)
+* [Video promocional](#video-promocional)
+* [Aplicación](#aplicacion)
+* [Referencias Bibliográficas](#referencias-bibliograficas)
+
 
 <a name=introduccion></a>
 
 ## Introducción
 
-Tomando el dataset de College Scoreboard el cual cuenta amplia información de instituciones de educación superior , usaremos técnicas de clustering para separar en grupos distintos a las instituciones.
+Tomando el dataset de College Scoreboard el cual cuenta amplia información de instituciones de educación superior, usaremos técnicas de clustering para separar en grupos distintos a las instituciones.
 
-Esto con el fin de crear una aplicación donde una persona pueda escoger entre 3 variables, y que de estas se genere un clustering, como los grupos en clustering tienen sus características particulares , una persona podrá mirar la base de datos de cada grupo además de una descripción de cada grupo , para cual pueda mirar si encuentra una institución de educación superior, que se acomode a sus necesidades en base a las variables que escogió.
+Esto con el fin de crear una aplicación donde una persona pueda escoger entre 3 variables, y que de estas se genere un clustering, como los grupos en clustering tienen sus características particulares, una persona podrá mirar la base de datos de cada grupo además de una descripción de cada grupo, para cual pueda mirar si encuentra una institución de educación superior, que se acomode a sus necesidades en base a las variables que escogió.
+
 
 <a name=pre-procesamiento-de-datos></a>
 
 ### Pre-procesamiento de datos
-Para que una persona pueda elegir una institución está lógicamente debe encontrarse activa , por ende filtramos inicialmente la base de datos usando la variable CURROPER , para que esta solo contenga las universidades que aún están operando.
+Para que una persona pueda elegir una institución está lógicamente debe encontrarse activa, por ende, filtramos inicialmente la base de datos usando la variable CURROPER, para que esta solo contenga las universidades que aún están operando.
 
-Las variables que serán escogidas que sean numericas seran normalizadas para 
-
-Lo siguiente son escoger variables de interés para una persona que quiera escoger una universidad , para esto escogemos las siguientes variables :
+Las variables que serán escogidas que sean numéricas serán normalizadas para lo siguiente será escoger variables de interés para una persona que quiera escoger una universidad, para esto escogemos las siguientes variables:
 
 <a name=variables></a>
 
@@ -43,7 +46,7 @@ Lo siguiente son escoger variables de interés para una persona que quiera escog
 <a name=preddeg></a>
 
 #### PREDDEG
-Esta variable nos indica el grado de certificación que predomina en la institución, a esta variable en particular se le aplicara la técnica de One-Hot encoding , ya que los números dan una información categórica, sin embargo no existe una institución en el que predomina el grado más alto de certificación, por eso al pre-procesar los datos al normalizar los datos, la categoría más alta , muestran datos nulos , por ende cuando se hace el one-hot encoding la columna resultante a esta categoria es eliminada ya que el metodo k-means no admite nulos.
+Esta variable nos indica el grado de certificación que predomina en la institución, a esta variable en particular se le aplicara la técnica de One-Hot encoding, ya que los números dan una información categórica, sin embargo no existe una institución en el que predomina el grado más alto de certificación, por eso al preprocesar los datos al normalizar los datos, la categoría más alta, muestran datos nulos, por ende cuando se hace el one-hot encoding la columna resultante a esta categoría es eliminada ya que el método k-means no admite nulos.
 
 - 0, Non-degree-granting
 - 1, Certificate degree
@@ -54,7 +57,7 @@ Esta variable nos indica el grado de certificación que predomina en la instituc
 <a name=distanceonly></a>
 
 #### DISTANCEONLY
-Esta variable indica si la institución ofrece unicamente o no , educacion remota.
+Esta variable indica si la institución ofrece únicamente o no, educación remota.
 
 - 0, Not distance education
 - 1, Distance education only
@@ -63,11 +66,13 @@ Esta variable indica si la institución ofrece unicamente o no , educacion remot
 
 #### TUITFTE
 
-Esta variable numerica significan los ingresos netos por matrícula por estudiante equivalente a tiempo completo (TUITFTE, por sus siglas en inglés) utilizan los ingresos por matrícula menos los descuentos y asignaciones, y los dividen por el número de estudiantes FTE de pregrado y posgrado.
+Esta variable numérica podemos encontrar los ingresos netos por matrícula por estudiante equivalente a tiempo completo (TUITFTE, por sus siglas en inglés) utilizan los ingresos por matrícula menos los descuentos y asignaciones, y los dividen por el número de estudiantes FTE de pregrado y posgrado.
 
 <a name=admrateall></a>
 
 #### ADM_RATE_ALL
+
+representa la tasa de admisión en todos los campus, definida como el número total de estudiantes universitarios admitidos en todas las sucursales dividido por el número total de estudiantes universitarios que presentaron solicitudes en todas las sucursales.
 
 <a name=npt4pub></a>
 
@@ -143,3 +148,15 @@ La aplicación al ser opciones
 |50%|0\.0|7834\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
 |75%|0\.0|10688\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
 |max|0\.0|27199\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
+
+<a name=video-promocional></a>
+
+### Video promocional
+
+<a name=aplicacion></a>
+
+### Aplicación
+
+<a name=referencias-bibliograficas></a>
+
+### Referencias Bibliográficas
