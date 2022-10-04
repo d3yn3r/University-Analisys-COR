@@ -90,7 +90,7 @@ Para las instituciones privadas, esta metrica incluye un promedio ponderado de t
 <a name= Matriz-de-correlación></a>
 
 ### Matriz de correlación
-![Matriz de correlacion de las variables]()
+![Matriz de correlacion de las variables](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Matriz%20de%20correlacion%20de%20las%20variables.PNG)
 
 <a name=analisis-de-nulos></a>
 
