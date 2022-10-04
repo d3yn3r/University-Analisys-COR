@@ -36,14 +36,15 @@ Esto con el fin de crear una aplicación donde una persona pueda escoger entre 3
 
 <a name=pre-procesamiento-de-datos></a>
 
-### Pre-procesamiento de datos
+## Pre-procesamiento de datos
 Para que una persona pueda elegir una institución está lógicamente debe encontrarse activa, por ende, filtramos inicialmente la base de datos usando la variable CURROPER, para que esta solo contenga las universidades que aún están operando.
 
 Las variables que serán escogidas que sean numéricas serán normalizadas para lo siguiente será escoger variables de interés para una persona que quiera escoger una universidad, para esto escogemos las siguientes variables:
 
 <a name=variables></a>
 
-### Variables
+## Variables
+
 <a name=preddeg></a>
 
 #### PREDDEG
@@ -89,12 +90,12 @@ Esta variable indica el precio neto promedio para las instituciones privadas, es
 
 <a name= Matriz-de-correlación></a>
 
-### Matriz de correlación
+## Matriz de correlación
 ![Matriz de correlacion de las variables](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Matriz%20de%20correlacion%20de%20las%20variables.PNG)
 
 <a name=analisis-de-nulos></a>
 
-### Análisis de Nulos 
+## Análisis de Nulos 
 Como para la aplicación se usarán opciones para los usuarios , las variables tienen diferente cantidad de nulos por columna , en especial ADM_RATE_ALL, ya que esta no cuenta con muchas observaciones ya que es una variable que toma.
 
 <a name=analisis-de-un-caso></a>
@@ -167,11 +168,11 @@ Para este caso usamos las variables: [NPT4_PUB](#npt4pub), [PREDDEG](#preddeg), 
 
 <a name=video-promocional></a>
 
-### Video promocional
+## Video promocional
 
 <a name=aplicacion></a>
 
-### Aplicación
+## Aplicación
 
 [Link del aplicativo web](https://ancgarciamo.shinyapps.io/Uni-Score/)
 
