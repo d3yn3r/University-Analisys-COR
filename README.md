@@ -52,6 +52,7 @@ Esta variable nos indica el grado de certificación que predomina en la instituc
 - 4, Graduate degree
 
 <a name=distanceonly></a>
+
 #### DISTANCEONLY
 Esta variable indica si la institución ofrece unicamente o no , educacion remota.
 
@@ -59,19 +60,20 @@ Esta variable indica si la institución ofrece unicamente o no , educacion remot
 - 1, Distance education only
 
 <a name=tuitfte></a>
+
 #### TUITFTE
 
 Esta variable numerica significan los ingresos netos por matrícula por estudiante equivalente a tiempo completo (TUITFTE, por sus siglas en inglés) utilizan los ingresos por matrícula menos los descuentos y asignaciones, y los dividen por el número de estudiantes FTE de pregrado y posgrado.
 
-<a name=adm-rate-all></a>
+<a name=admrateall></a>
 
 #### ADM_RATE_ALL
 
-<a name=npt4-pub></a>
+<a name=npt4pub></a>
 
 #### NPT4_PUB
 
-<a name=npt4-priv></a>
+<a name=npt4priv></a>
 
 #### NPT4_PRIV
 
@@ -82,7 +84,7 @@ Como para la aplicación se usarán opciones para los usuarios , las variables t
 
 <a name=analisis-de-un-caso></a>
 
-## Análisis de un caso 
+### Análisis de un caso 
 La aplicación al ser opciones
 
 <a name=curva-del-codo></a>
