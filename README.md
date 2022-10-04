@@ -107,13 +107,13 @@ Para este caso usamos las variables: [NPT4_PUB](#npt4pub), [PREDDEG](#preddeg), 
 <a name=curva-del-codo></a>
 
 ### Curva del codo
-![Curva del codo caso 1](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Curva%20del%20codo%20Caso1.png)
 
-Para este caso 
+![Curva del codo caso 1](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Curva%20del%20codo%20Caso1.png)
 
 <a name=dendrograma></a>
 
 ### Dendrograma
+
 ![Dendrograma caso 1 ](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Dendrograma%20Caso1.png)
 
 <a name=grupos></a>
@@ -123,6 +123,7 @@ Para este caso
 <a name=grupo-0></a>
 
 #### Grupo 0
+
 |index|DISTANCEONLY|NPT4\_PUB|PREDDEG\_ Associate degree|PREDDEG\_ Bachelor&\#39;s degree|PREDDEG\_ Certificate degree|PREDDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|
 |count|566\.0|566\.0|566\.0|566\.0|566\.0|566\.0|566\.0|
@@ -152,6 +153,7 @@ Para este caso
 <a name=grupo-2></a>
 
 #### Grupo 2
+
 |index|DISTANCEONLY|NPT4\_PUB|PREDDEG\_ Associate degree|PREDDEG\_ Bachelor&\#39;s degree|PREDDEG\_ Certificate degree|PREDDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|
 |count|567\.0|567\.0|567\.0|567\.0|567\.0|567\.0|567\.0|
