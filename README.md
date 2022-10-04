@@ -161,9 +161,12 @@ La aplicación al ser opciones
 
 ### Aplicación
 
+[Link del aplicativo web](https://ancgarciamo.shinyapps.io/Uni-Score/)
+
 <a name=referencias-bibliograficas></a>
 
 ### Referencias Bibliográficas
 
 [Shiny](https://shiny.rstudio.com/)
-
+[K-Means Clustering in Python: A Practical Guide](https://realpython.com/k-means-clustering-python/#:~:text=The%20k%2Dmeans%20clustering%20method,the%20oldest%20and%20most%20approachable.)
+[Stack overflow](https://stackoverflow.com/)
