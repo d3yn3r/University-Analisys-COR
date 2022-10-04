@@ -1,6 +1,4 @@
-\begin{center}
-# College Scorecard Data analysis
-\end{center}
+<center># College Scorecard Data analysis <\center>
  
 ## Tabla de contenido
 * [Introducción](#introduccion)
