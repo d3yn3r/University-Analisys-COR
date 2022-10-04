@@ -90,6 +90,7 @@ La aplicación al ser opciones
 <a name=curva-del-codo></a>
 
 ### Curva del codo
+![Curva del codo caso 1](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Curva%20del%20codo%20Caso1.png)
 
 <a name=dendrograma></a>
 
