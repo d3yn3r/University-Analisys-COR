@@ -11,6 +11,7 @@
     * [ADM_RATE_ALL](#admrateall)
     * [NPT4_PUB](#npt4pub)
     * [NPT4_PRIV](#npt4pub)
+* [Matriz de correlación](#matriz-de-correlacion)
 * [Análisis de nulos](#analisis-de-nulos)
 * [Análisis de un caso](#análisis-de-un-caso)
 * [Curva del codo](#curva-del-codo)
@@ -85,6 +86,11 @@ Para las instituciones públicas, esta métrica se limita a los estudiantes univ
 #### NPT4_PRIV
 
 Para las instituciones privadas, esta metrica incluye un promedio ponderado de todos los estudiantes universitarios que reciben Título IV.
+
+<a name= Matriz-de-correlación></a>
+
+### Matriz de correlación
+![Matriz de correlacion de las variables]()
 
 <a name=analisis-de-nulos></a>
 
