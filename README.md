@@ -1,16 +1,30 @@
-<center># College Scorecard Data analysis <\center>
+# College Scorecard Data analysis
  
+
 ## Tabla de contenido
 * [Introducción](#introduccion)
 * [Pre-Procesamiento de datos](#pre-procesamiento-de-datos)
 * [Variables](#variables)
-    # [PREDDEG](#preddeg)
-    # [](#distanceonly)
+    * [PREDDEG](#preddeg)
+    * [DISTANCEONLY](#distanceonly)
+    * [TUITFTE](#tuitfte)
+    * [ADM_RATE_ALL](#admrateall)
+    * [NPT4_PUB](#npt4pub)
+    * [NPT4_PRIV](#npt4pub)
+* [Análisis de nulos](#analisis-de-nulos)
+* [Análisis de un caso](#análisis-de-un-caso)
+* [Curva del codo](#curva-del-codo)
+* [Dendrograma](#dendrograma)
+* [Grupos](#grupos)
+    * [Grupo 0](#grupo-0)
+    * [Grupo 1](#grupo-1)
+    * [Grupo 2](#grupo-2)
 
 
 
 
 <a name=introduccion>
+## Introducción
 Tomando el dataset de College Scoreboard el cual cuenta amplia información de instituciones de educación superior , usaremos técnicas de clustering para separar en grupos distintos a las instituciones.
 
 Esto con el fin de crear una aplicación donde una persona pueda escoger entre 3 variables, y que de estas se genere un clustering, como los grupos en clustering tienen sus características particulares , una persona podrá mirar la base de datos de cada grupo además de una descripción de cada grupo , para cual pueda mirar si encuentra una institución de educación superior, que se acomode a sus necesidades en base a las variables que escogió.
