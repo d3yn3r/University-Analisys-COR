@@ -79,13 +79,13 @@ Representa la tasa de admisión en todos los campus, definida como el número to
 
 #### NPT4_PUB
 
-Para las instituciones públicas, esta métrica se limita a los estudiantes universitarios que pagan matrícula estatal, incluye un promedio ponderado de todos los estudiantes universitarios que reciben Título IV.
+Esta variable indica el precio promedio neto menos la ayuda federal, estatal e institucional, esta métrica se limita a los estudiantes universitarios que pagan matrícula estatal.
 
 <a name=npt4priv></a>
 
 #### NPT4_PRIV
 
-Para las instituciones privadas, esta metrica incluye un promedio ponderado de todos los estudiantes universitarios que reciben Título IV.
+Esta variable indica el precio neto promedio para las instituciones privadas, esta métrica incluye un promedio ponderado de todos los estudiantes universitarios que reciben Título IV.
 
 <a name= Matriz-de-correlación></a>
 
