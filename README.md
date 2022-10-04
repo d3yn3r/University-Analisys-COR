@@ -93,13 +93,17 @@ Como para la aplicación se usarán opciones para los usuarios , las variables t
 
 <a name=analisis-de-un-caso></a>
 
-### Análisis de un caso 
-La aplicación al ser opciones
+## Análisis de un caso 
+Dado que en la aplicación podemos escoger varias opciones, esto nos da como resultado varios casos, y por practicidad solo interpretaremos los resultados de uno de los casos posibles, y analizaremos diferentes métodos de obtención del k optimo.
+
+Para este caso usamos las variables: [NPT4_PUB](#npt4pub), [PREDDEG](#preddeg), [DISTANCEONLY](#distanceonly)
 
 <a name=curva-del-codo></a>
 
 ### Curva del codo
 ![Curva del codo caso 1](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Curva%20del%20codo%20Caso1.png)
+
+Para este caso 
 
 <a name=dendrograma></a>
 
