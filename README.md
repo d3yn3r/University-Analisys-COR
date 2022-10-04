@@ -167,6 +167,6 @@ La aplicación al ser opciones
 
 ### Referencias Bibliográficas
 
-[Shiny](https://shiny.rstudio.com/)
-[K-Means Clustering in Python: A Practical Guide](https://realpython.com/k-means-clustering-python/#:~:text=The%20k%2Dmeans%20clustering%20method,the%20oldest%20and%20most%20approachable.)
-[Stack overflow](https://stackoverflow.com/)
+[Shiny](https://shiny.rstudio.com/)<br>
+[K-Means Clustering in Python: A Practical Guide](https://realpython.com/k-means-clustering-python/#:~:text=The%20k%2Dmeans%20clustering%20method,the%20oldest%20and%20most%20approachable.)<br>
+[Stack overflow](https://stackoverflow.com/)<br>
