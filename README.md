@@ -20,6 +20,7 @@
     * [Grupo 0](#grupo-0)
     * [Grupo 1](#grupo-1)
     * [Grupo 2](#grupo-2)
+* [Conclusión](#conclusion)
 * [Video promocional](#video-promocional)
 * [Aplicación](#aplicacion)
 * [Referencias Bibliográficas](#referencias-bibliograficas)
@@ -180,6 +181,10 @@ Para el grupo uno, se agruparon 567 instituciones de carácter público, con una
 |50%|0\.0|7834\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
 |75%|0\.0|10688\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
 |max|0\.0|27199\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
+
+<a nme=conclusion></a>
+
+## Conclusión 
 
 <a name=video-promocional></a>
 
