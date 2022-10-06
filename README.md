@@ -22,6 +22,7 @@
         * [Grupo 1](#grupo-1)
         * [Grupo 2](#grupo-2)
 * [Conclusión](#conclusion)
+* [Aplicación en un contexto colombiano](#Aplicación-en-un-contexto-colombiano)
 * [Video promocional](#video-promocional)
 * [Aplicación](#aplicacion)
 * [Referencias Bibliográficas](#referencias-bibliograficas)
@@ -192,9 +193,10 @@ Para el grupo uno, se agruparon 567 instituciones de carácter público, con una
 
 Gracias al anterior análisis, las personas interesadas en ingresar a una institución universitaria pueden tener una base más clara acerca de a que institución desean presentarse, y mediante el [aplicativo](https://ancgarciamo.shinyapps.io/Uni-Score/) presentado pueden generar casos en los que se evidencien los resultados más óptimos para las variables de preferencia de cada usuario.
 
+<a name=Aplicación-en-un-contexto-colombiano></a>
 ## Aplicación en un contexto colombiano
 Al usar bases de datos con informacion de educacion superior en colombia como por ejemplo , las expuestas en el ministerio de educacion en el siguiente link: 
-https://www.mineducacion.gov.co/portal/estadisticas/Datos-Abiertos-MEN/ , se puede hacer un analisis similar al que se hizo en este trabajo ,usando la informacion para a través de tecnicas de clustering , agrupar las instituciones de educacion superior.
+https://www.mineducacion.gov.co/portal/estadisticas/Datos-Abiertos-MEN/ , se puede hacer un analisis similar al que se hizo en este trabajo ,usando la informacion para a través de tecnicas de clustering , agrupar las instituciones de educacion superior teniendo en cuenta variables de interés para un usuario y agregando una descripcion de cada grupo para que una persona pueda elegir a su criterio una institucion a su gusto.
 
 <a name=video-promocional></a>
 
