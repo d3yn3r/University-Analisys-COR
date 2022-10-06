@@ -186,8 +186,8 @@ Para el grupo uno, se agruparon 567 instituciones de carácter público, con una
 
 ## Conclusión 
 
-•	Para el caso de estudio, los grupos nos muestran información relevante que puede influir en la toma de una decisión para escoger universidad.
-•	Mediante [el aplicativo web](https://ancgarciamo.shinyapps.io/Uni-Score/) se ayuda a crear una combinación de las variables y así generar casos según las preferencias del usuario.
+•	Para el caso de estudio, los grupos nos muestran información relevante que puede influir en la toma de una decisión para escoger universidad.<br>
+•	Mediante [el aplicativo web](https://ancgarciamo.shinyapps.io/Uni-Score/) se ayuda a crear una combinación de las variables y así generar casos según las preferencias del usuario.<br>
 
 
 <a name=video-promocional></a>
