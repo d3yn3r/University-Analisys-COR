@@ -93,6 +93,8 @@ Esta variable indica el precio neto promedio para las instituciones privadas, es
 ## Matriz de correlación
 ![Matriz de correlacion de las variables](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Matriz%20de%20correlacion%20de%20las%20variables.PNG)
 
+Luego de revisar la documentación de la base de datos y escoger las variables de importancia para nuestro análisis, realizamos la matriz de correlación entre estas, y en la cual encontramos que estas no presentan una correlación alta, por lo cual son excelentes variables para realizar el análisis.
+
 <a name=analisis-de-nulos></a>
 
 ## Análisis de Nulos 
@@ -111,6 +113,10 @@ Para este caso usamos las variables: [NPT4_PUB](#npt4pub), [PREDDEG](#preddeg), 
 
 ![Curva del codo caso 1](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Curva%20del%20codo%20Caso1.png)
 
+El primer análisis para la obtención del k optimó que realizamos, fue el de la curva del codo, este nos dio como resultado un k=3.
+
+Posteriormente realizamos un dendrograma 
+
 <a name=dendrograma></a>
 
 ### Dendrograma
@@ -121,9 +127,14 @@ Para este caso usamos las variables: [NPT4_PUB](#npt4pub), [PREDDEG](#preddeg), 
 
 ### Grupos
 
+Luego de los cálculos realizados, procedemos a realizar los análisis de los grupos obtenidos mediante las técnicas ejecutadas.
+
 <a name=grupo-0></a>
 
 #### Grupo 0
+
+En el grupo cero, nos encontramos con 566 instituciones de carácter público, con una media neta de pago de matrícula estatal de 13,315.85 las cuales cerca de un 98% cuentan con un grado de certificación 3, Bachelor's degree.
+
 
 |index|DISTANCEONLY|NPT4\_PUB|PREDDEG\_ Associate degree|PREDDEG\_ Bachelor&\#39;s degree|PREDDEG\_ Certificate degree|PREDDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|
@@ -140,6 +151,8 @@ Para este caso usamos las variables: [NPT4_PUB](#npt4pub), [PREDDEG](#preddeg), 
 
 #### Grupo 1
 
+Para el grupo uno, se agruparon 777 instituciones de carácter público, con una media neta de pago de matrícula estatal de 7,536.90, de las cuales cuentan con un grado de certificación 2, Associate degree.
+
 |index|DISTANCEONLY|NPT4\_PUB|PREDDEG\_ Associate degree|PREDDEG\_ Bachelor&\#39;s degree|PREDDEG\_ Certificate degree|PREDDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|
 |count|777\.0|777\.0|777\.0|777\.0|777\.0|777\.0|777\.0|
@@ -154,6 +167,8 @@ Para este caso usamos las variables: [NPT4_PUB](#npt4pub), [PREDDEG](#preddeg), 
 <a name=grupo-2></a>
 
 #### Grupo 2
+
+Para el grupo uno, se agruparon 567 instituciones de carácter público, con una media neta de pago de matrícula estatal de 8,646.82, de las cuales cuentan con un grado de certificación 1, Certificate degree.
 
 |index|DISTANCEONLY|NPT4\_PUB|PREDDEG\_ Associate degree|PREDDEG\_ Bachelor&\#39;s degree|PREDDEG\_ Certificate degree|PREDDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|
