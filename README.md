@@ -82,19 +82,19 @@ Representa la tasa de admisión en todos los campus, definida como el número to
 
 #### NPT4_PUB
 
-Esta variable indica el precio promedio neto menos la ayuda federal, estatal e institucional, esta métrica se limita a los estudiantes universitarios que pagan matrícula estatal.
+Esta variable indica el precio promedio neto para garantizar la asistencia normal de los estudiantes menos la ayuda federal, estatal e institucional, esta métrica se limita a los estudiantes universitarios que pagan matrícula estatal.
 
 <a name=npt4priv></a>
 
 #### NPT4_PRIV
 
-Esta variable indica el precio neto promedio para las instituciones privadas, esta métrica incluye un promedio ponderado de todos los estudiantes universitarios que reciben Título IV.
+Esta variable indica el precio neto promedio para garantizar la asistencia normal de los estudiantes para las instituciones privadas, esta métrica incluye un promedio ponderado de todos los estudiantes universitarios que reciben Título IV.
 
 <a name= Matriz-de-correlación></a>
 
 ## Matriz de correlación
 
-Luego de revisar la documentación de la base de datos y escoger las variables de importancia para nuestro análisis, realizamos la matriz de correlación entre estas, y en la cual encontramos que no presentan una correlación alta, por lo cual son excelentes variables para realizar el análisis.
+Luego de revisar la documentación de la base de datos y escoger las variables de importancia para nuestro análisis, realizamos la matriz de correlación entre estas, y en la cual encontramos que no presentan una correlación alta, por lo cual son excelentes variables para realizar el análisis, ademas como podemos ver ,NPT4_PRIV y NT4_PUB no muestra ningún valor , esto se debe a que estas variables tienen comportamiento cercano a mutuametente excluyente entre ellas , por lo tanto para las tecnicas de clustering , estas 2 variables nunca estaran juntas , ademas por el carácter de estas variables podemos separar a las intstituciones entre publicas y privadas.
 
 ![Matriz de correlacion de las variables](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Matriz%20de%20correlacion%20de%20las%20variables.PNG)
 
