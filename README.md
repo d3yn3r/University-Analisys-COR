@@ -208,7 +208,7 @@ Gracias al anterior análisis, las personas interesadas en ingresar a una instit
 
 [[1] K-Means Clustering in Python: A Practical Guide](https://realpython.com/k-means-clustering-python/#:~:text=The%20k%2Dmeans%20clustering%20method,the%20oldest%20and%20most%20approachable.)<br>
 
-[[2] U.S DEPARTMENT OF EDUCATION College Scorecard](https://collegescorecard.ed.gov/data/)<br>
+[[2] U.S. DEPARTMENT OF EDUCATION College Scorecard](https://collegescorecard.ed.gov/data/)<br>
 
 [[3] Cluster Analysis Exercise 2](https://data.world/exercises/cluster-analysis-exercise-2)<br>
 
