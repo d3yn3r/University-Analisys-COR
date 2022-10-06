@@ -92,18 +92,21 @@ Esta variable indica el precio neto promedio para las instituciones privadas, es
 <a name= Matriz-de-correlación></a>
 
 ## Matriz de correlación
-![Matriz de correlacion de las variables](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Matriz%20de%20correlacion%20de%20las%20variables.PNG)
 
-Luego de revisar la documentación de la base de datos y escoger las variables de importancia para nuestro análisis, realizamos la matriz de correlación entre estas, y en la cual encontramos que estas no presentan una correlación alta, por lo cual son excelentes variables para realizar el análisis.
+Luego de revisar la documentación de la base de datos y escoger las variables de importancia para nuestro análisis, realizamos la matriz de correlación entre estas, y en la cual encontramos que no presentan una correlación alta, por lo cual son excelentes variables para realizar el análisis.
+
+![Matriz de correlacion de las variables](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Matriz%20de%20correlacion%20de%20las%20variables.PNG)
 
 <a name=analisis-de-nulos></a>
 
 ## Análisis de Nulos 
-Como para la aplicación se usarán opciones para los usuarios , las variables tienen diferente cantidad de nulos por columna , en especial ADM_RATE_ALL, ya que esta no cuenta con muchas observaciones ya que es una variable que toma.
+
+Como para la aplicación se usarán opciones para los usuarios, las variables tienen diferente cantidad de nulos por columna, en especial ADM_RATE_ALL, ya que esta no cuenta con muchas observaciones, por lo tanto, al no tener información concluyente acerca de los datos nulos, procedemos a eliminarlos de la base de datos, obteniendo como resultado diferentes cantidades de observaciones según cada variable.
 
 <a name=analisis-de-un-caso></a>
 
 ## Análisis de un caso 
+
 Dado que en la aplicación podemos escoger varias opciones, esto nos da como resultado varios casos, y por practicidad solo interpretaremos los resultados de uno de los casos posibles, y analizaremos diferentes métodos de obtención del k optimo.
 
 Para este caso usamos las variables: [NPT4_PUB](#npt4pub), [PREDDEG](#preddeg), [DISTANCEONLY](#distanceonly)
@@ -112,9 +115,9 @@ Para este caso usamos las variables: [NPT4_PUB](#npt4pub), [PREDDEG](#preddeg), 
 
 ### Curva del codo
 
-![Curva del codo caso 1](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Curva%20del%20codo%20Caso1.png)
-
 El primer análisis para la obtención del k optimó que realizamos, fue el de la curva del codo, este nos dio como resultado un k=3.
+
+![Curva del codo caso 1](https://github.com/d3yn3r/University-Analisys-COR/blob/main/Nuevas%20Imagenes/Curva%20del%20codo%20Caso1.png)
 
 Posteriormente realizamos un dendrograma 
 
@@ -186,8 +189,7 @@ Para el grupo uno, se agruparon 567 instituciones de carácter público, con una
 
 ## Conclusión 
 
-•	Para el caso de estudio, los grupos nos muestran información relevante que puede influir en la toma de una decisión para escoger universidad.<br>
-•	Mediante [el aplicativo web](https://ancgarciamo.shinyapps.io/Uni-Score/) se ayuda a crear una combinación de las variables y así generar casos según las preferencias del usuario.<br>
+Gracias al anterior análisis, las personas interesadas en ingresar a una institución universitaria pueden tener una base más clara acerca de a que institución desean presentarse, y mediante el [aplicativo](https://ancgarciamo.shinyapps.io/Uni-Score/) presentado pueden generar casos en los que se evidencien los resultados más óptimos para las variables de preferencia de cada usuario.
 
 
 <a name=video-promocional></a>
@@ -204,6 +206,12 @@ Para el grupo uno, se agruparon 567 instituciones de carácter público, con una
 
 ### Referencias Bibliográficas
 
-[Shiny](https://shiny.rstudio.com/)<br>
-[K-Means Clustering in Python: A Practical Guide](https://realpython.com/k-means-clustering-python/#:~:text=The%20k%2Dmeans%20clustering%20method,the%20oldest%20and%20most%20approachable.)<br>
-[Stack overflow](https://stackoverflow.com/)<br>
+[[1] K-Means Clustering in Python: A Practical Guide](https://realpython.com/k-means-clustering-python/#:~:text=The%20k%2Dmeans%20clustering%20method,the%20oldest%20and%20most%20approachable.)<br>
+
+[[2] U.S DEPARTMENT OF EDUCATION College Scorecard](https://collegescorecard.ed.gov/data/)<br>
+
+[[3] Cluster Analysis Exercise 2](https://data.world/exercises/cluster-analysis-exercise-2)<br>
+
+[[4] Stack overflow](https://stackoverflow.com/)<br>
+
+[[6] Shiny](https://shiny.rstudio.com/)<br>
