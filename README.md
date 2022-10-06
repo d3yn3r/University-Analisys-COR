@@ -182,7 +182,7 @@ Para el grupo uno, se agruparon 567 instituciones de carácter público, con una
 |75%|0\.0|10688\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
 |max|0\.0|27199\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
 
-<a nme=conclusion></a>
+<a name=conclusion></a>
 
 ## Conclusión 
 
