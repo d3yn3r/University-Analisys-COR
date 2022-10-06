@@ -1,5 +1,6 @@
 # College Scorecard Data analysis
- 
+#### Andrés Camilo García Moreno - Ingeniería de sistemas e informatica 
+#### Deyner Elías López Pineda - Ingeniería de sistemas e informatica 
 
 ## Tabla de contenido
 * [Introducción](#introduccion)
