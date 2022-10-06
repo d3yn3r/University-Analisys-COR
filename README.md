@@ -195,7 +195,7 @@ Gracias al anterior análisis, las personas interesadas en ingresar a una instit
 
 <a name=Aplicación-en-un-contexto-colombiano></a>
 ## Aplicación en un contexto colombiano
-Al usar bases de datos con información de educación superior en Colombia como por ejemplo , las expuestas en el ministerio de educacion en el este [link](https://www.mineducacion.gov.co/portal/estadisticas/Datos-Abiertos-MEN/) , se puede hacer un analisis similar al que se hizo en este trabajo ,usando la información para a través de tecnicas de clustering , agrupar las instituciones de educación superior teniendo en cuenta variables de interés para un usuario y agregando una descripción de cada grupo para que una persona pueda elegir a su criterio una institución a su gusto.
+Al usar bases de datos con información de educación superior en Colombia como por ejemplo , las expuestas en el ministerio de educacion en este [link](https://www.mineducacion.gov.co/portal/estadisticas/Datos-Abiertos-MEN/) , se puede hacer un analisis similar al que se hizo en este trabajo ,usando la información para a través de tecnicas de clustering , agrupar las instituciones de educación superior teniendo en cuenta variables de interés para un usuario y agregando una descripción de cada grupo para que una persona pueda elegir a su criterio una institución a su gusto.
 
 <a name=video-promocional></a>
 
