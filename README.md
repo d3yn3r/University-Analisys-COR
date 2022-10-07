@@ -187,11 +187,6 @@ Para el grupo uno, se agruparon 567 instituciones de carácter público, con una
 |75%|0\.0|10688\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
 |max|0\.0|27199\.0|0\.0|0\.0|1\.0|0\.0|2\.0|
 
-<a name=conclusion></a>
-
-## Conclusión 
-
-Gracias al anterior análisis, las personas interesadas en ingresar a una institución universitaria pueden tener una base más clara acerca de a que institución desean presentarse, y mediante el [aplicativo](https://ancgarciamo.shinyapps.io/Uni-Score/) presentado pueden generar casos en los que se evidencien los resultados más óptimos para las variables de preferencia de cada usuario.
 
 <a name=Aplicación-en-un-contexto-colombiano></a>
 ## Aplicación en un contexto colombiano
@@ -206,6 +201,12 @@ Al usar bases de datos con información de educación superior en Colombia como 
 ## Aplicación
 
 [Link del aplicativo web](https://ancgarciamo.shinyapps.io/Uni-Score/)
+
+<a name=conclusion></a>
+
+## Conclusión 
+
+Gracias al anterior análisis, las personas interesadas en ingresar a una institución universitaria pueden tener una base más clara acerca de a que institución desean presentarse, y mediante el [aplicativo](https://ancgarciamo.shinyapps.io/Uni-Score/) presentado pueden generar casos en los que se evidencien los resultados más óptimos para las variables de preferencia de cada usuario.
 
 <a name=referencias-bibliograficas></a>
 
