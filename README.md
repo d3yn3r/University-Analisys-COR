@@ -204,7 +204,7 @@ Al usar bases de datos con información de educación superior en Colombia como 
 
 ## Video promocional
 
-[Link del video promocional](https://www.youtube.com/watch?v=dN7XZ578DjI)
+[Link del video promocional](https://youtu.be/VJ1mNqrsoW4)
 
 <a name=aplicacion></a>
 
