@@ -21,10 +21,10 @@
         * [Grupo 0](#grupo-0)
         * [Grupo 1](#grupo-1)
         * [Grupo 2](#grupo-2)
-* [Conclusión](#conclusion)
 * [Aplicación en un contexto colombiano](#Aplicación-en-un-contexto-colombiano)
-* [Video promocional](#video-promocional)
 * [Aplicación](#aplicacion)
+* [Video promocional](#video-promocional)
+* [Conclusión](#conclusion)
 * [Referencias Bibliográficas](#referencias-bibliograficas)
 
 
@@ -190,19 +190,21 @@ Para el grupo uno, se agruparon 567 instituciones de carácter público, con una
 
 <a name=Aplicación-en-un-contexto-colombiano></a>
 ## Aplicación en un contexto colombiano
+
 Al usar bases de datos con información de educación superior en Colombia como por ejemplo , las expuestas en el ministerio de educacion en este [link](https://www.mineducacion.gov.co/portal/estadisticas/Datos-Abiertos-MEN/) , se puede hacer un analisis similar al que se hizo en este trabajo ,usando la información para a través de tecnicas de clustering , agrupar las instituciones de educación superior teniendo en cuenta variables de interés para un usuario y agregando una descripción de cada grupo para que una persona pueda elegir a su criterio una institución a su gusto.
 
-<a name=video-promocional></a>
-
-## Video promocional
-
-<a name=aplicacion></a>
 
 ## Aplicación
 
 [Link del aplicativo web](https://ancgarciamo.shinyapps.io/Uni-Score/)
 
 <a name=conclusion></a>
+
+<a name=video-promocional></a>
+
+## Video promocional
+
+<a name=aplicacion></a>
 
 ## Conclusión 
 
