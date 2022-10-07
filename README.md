@@ -139,7 +139,7 @@ Luego de los cálculos realizados, procedemos a realizar los análisis de los gr
 
 #### Grupo 0
 
-En el grupo cero, nos encontramos con 566 instituciones de carácter público, con una media neta de pago de matrícula estatal de 13,315.85 las cuales cerca de un 98% cuentan con un grado de certificación 3, Bachelor's degree.
+En el grupo cero, nos encontramos con 566 instituciones de carácter público, con una media neta de precio de sostenimiento de 13,315.85 dólares, de las cuales cerca de un 98% cuentan con un grado de certificación 3., Bachelor's degree.
 
 
 |index|DISTANCEONLY|NPT4\_PUB|PREDDEG\_ Associate degree|PREDDEG\_ Bachelor&\#39;s degree|PREDDEG\_ Certificate degree|PREDDEG\_ Non-degree-granting|Labels\_3Clusters|
@@ -157,7 +157,7 @@ En el grupo cero, nos encontramos con 566 instituciones de carácter público, c
 
 #### Grupo 1
 
-Para el grupo uno, se agruparon 777 instituciones de carácter público, con una media neta de pago de matrícula estatal de 7,536.90, de las cuales cuentan con un grado de certificación 2, Associate degree.
+Para el grupo uno, se agruparon 777 instituciones de carácter público, con una media neta de pago de sostenimiento de 7,536.90 dólares, las cuales cuentan con un grado de certificación 2, Associate degree.
 
 |index|DISTANCEONLY|NPT4\_PUB|PREDDEG\_ Associate degree|PREDDEG\_ Bachelor&\#39;s degree|PREDDEG\_ Certificate degree|PREDDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|
@@ -174,7 +174,7 @@ Para el grupo uno, se agruparon 777 instituciones de carácter público, con una
 
 #### Grupo 2
 
-Para el grupo uno, se agruparon 567 instituciones de carácter público, con una media neta de pago de matrícula estatal de 8,646.82, de las cuales cuentan con un grado de certificación 1, Certificate degree.
+Para el grupo uno, se agruparon 567 instituciones de carácter público, con una media neta de pago de sostenimiento de 8,646.82, las cuales cuentan con un grado de certificación 1, Certificate degree.
 
 |index|DISTANCEONLY|NPT4\_PUB|PREDDEG\_ Associate degree|PREDDEG\_ Bachelor&\#39;s degree|PREDDEG\_ Certificate degree|PREDDEG\_ Non-degree-granting|Labels\_3Clusters|
 |---|---|---|---|---|---|---|---|
